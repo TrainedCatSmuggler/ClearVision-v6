@@ -6,11 +6,6 @@
   transform: unset !important;
 }
 
-/* User popout */
-.outer_c0bea0:not(.custom-profile-theme,.container_ba7f98) {
-  background: rgba(0, 0, 0, 0);
-}
-
 .outer_c0bea0:not(.custom-profile-theme,.container_ba7f98) .inner_c0bea0.biteSize_c0bea0 {
   background: var(--user-popout-overlay);
 }
